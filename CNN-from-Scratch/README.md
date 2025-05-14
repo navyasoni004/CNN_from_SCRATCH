@@ -79,7 +79,7 @@ App will start running on the local server http://127.0.0.1:5000 as shown below 
 
 ## Contributing
 
-Mail me at zishansami102@gmail.com if you want to contribute to this project <br/>
+Mail me at navyasoni004@gmail.com if you want to contribute to this project <br/>
 
 ## Acknowledgments
 
