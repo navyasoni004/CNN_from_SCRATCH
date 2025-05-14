@@ -75,7 +75,7 @@ python app.py
 ```
 App will start running on the local server http://127.0.0.1:5000 as shown below : 
 
-![alt text](images/app_running.png)
+
 
 ## Contributing
 
